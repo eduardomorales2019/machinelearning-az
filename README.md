@@ -58,3 +58,4 @@ Puedes apuntarte al curso de Machine Learning con un descuento del 90% de su pre
 - Cualquier analista de datos que quiera mejorar sus habilidades en Machine Learning.
 - Personas que no están satisfechas con su trabajo y quieren convertirse en Data Scientist.
 - Cualquier persona que quiera añadir valor a su empresa con el poder del Machine Learning.
+# machineLearningBalearsFork
